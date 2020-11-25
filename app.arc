@@ -1,5 +1,5 @@
 @app
-init
+arc-ws
 
 @http
 get /
